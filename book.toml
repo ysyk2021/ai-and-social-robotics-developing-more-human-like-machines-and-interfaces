@@ -1,0 +1,6 @@
+[book]
+authors = ["ysykzheng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "AI and Social Robotics: Developing More Human-Like Machines and Interfaces"
