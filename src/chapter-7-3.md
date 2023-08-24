@@ -1,5 +1,3 @@
-Implications for the Future of Developing More Human-Like Machines and Interfaces
-===================================================================================================================
 
 As the field of AI-based social robotics continues to advance, there are many exciting future directions and challenges that researchers must consider. In this chapter, we will explore some of these directions and challenges and discuss their implications for the future of developing more human-like machines and interfaces.
 

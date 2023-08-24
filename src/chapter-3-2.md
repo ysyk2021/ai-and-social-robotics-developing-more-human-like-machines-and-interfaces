@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Social Robotics
-===============================================================================================
 
 Artificial intelligence (AI) is a key technology that enables social robots to perform complex tasks, interact with humans more intelligently, and adapt to changing environments and contexts. In this chapter, we will discuss the advantages and limitations of AI in social robotics.
 

@@ -1,5 +1,3 @@
-Emerging Trends and Technologies in AI-Based Social Robotics
-==============================================================================================
 
 AI-based social robotics is a rapidly evolving field that is poised to have significant impacts on society. In this chapter, we will explore emerging trends and technologies in AI-based social robotics, as well as the challenges and opportunities that lie ahead.
 

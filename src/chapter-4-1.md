@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Social Robotics
-==============================================================================================================
 
 With the increasing use of Artificial Intelligence (AI) in social robotics, the collection and analysis of data has become essential for improving the performance and functionality of these machines. In this chapter, we will provide an overview of data collection and analysis for social robotics, including the types of data commonly collected, the challenges associated with data collection and analysis, and the potential benefits of using AI for data analysis.
 

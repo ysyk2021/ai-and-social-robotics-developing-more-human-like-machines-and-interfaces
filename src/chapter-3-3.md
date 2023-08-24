@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Social Robotics
-============================================================================================
 
 Artificial intelligence (AI) is playing an increasingly important role in social robotics, enabling social robots to perform complex tasks, interact with humans more intelligently, and adapt to changing environments and contexts. In this chapter, we will present several case studies on the use of AI in social robotics, highlighting the ways in which AI is being used to enhance the functionality and effectiveness of social robots.
 

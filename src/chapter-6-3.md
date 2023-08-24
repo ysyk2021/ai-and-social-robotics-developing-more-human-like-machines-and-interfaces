@@ -1,5 +1,3 @@
-Integration with Social Robotics Processes and Tools
-================================================================================================
 
 The integration of AI-based technologies in social robotics has revolutionized the field, providing opportunities for developing more human-like machines and interfaces. In this chapter, we will explore the integration of AI-based tools with social robotics processes and tools, including the challenges associated with implementation and the potential benefits of using AI in social robotics.
 

@@ -1,5 +1,3 @@
-Data Collection and Analysis for Social Robotics
-================================================
 
 In this chapter, we will provide an overview of data collection and analysis for social robotics, including user interaction and feedback data, environmental and contextual data, behavioral and performance data, and regulatory and compliance data.
 

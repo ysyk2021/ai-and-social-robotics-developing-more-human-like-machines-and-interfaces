@@ -1,5 +1,3 @@
-Gesture Recognition and Motion Tracking
-===========================================================================================
 
 Gesture recognition and motion tracking are two important techniques used in AI-based social robotics. In this chapter, we will provide an overview of these techniques and their applications in social robotics.
 

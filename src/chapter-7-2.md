@@ -1,5 +1,3 @@
-Opportunities and Challenges in Scaling Up AI-Based Social Robotics
-=====================================================================================================
 
 AI-based social robotics has the potential to revolutionize many areas of society, from healthcare to education to manufacturing. In this chapter, we will explore the opportunities and challenges that arise when scaling up AI-based social robotics to have a broader impact.
 

@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-=================================================================================
 
 The development and implementation of AI-based social robotics have significant implications for society, including impacts on employment, privacy, and safety. In this chapter, we will explore regulatory and ethical considerations that arise when implementing AI-based social robots and how they can be addressed.
 

@@ -1,5 +1,3 @@
-Environmental and Contextual Data
-===================================================================================
 
 In addition to user interaction data and user feedback data, environmental and contextual data are important components in data collection and analysis for social robotics. In this chapter, we will discuss the significance of collecting environmental and contextual data, the challenges associated with collecting and analyzing this type of data, and the potential benefits of using AI for context-aware social robotics.
 

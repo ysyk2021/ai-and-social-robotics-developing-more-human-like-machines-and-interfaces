@@ -1,5 +1,3 @@
-User Interaction and Feedback Data
-====================================================================================
 
 With the increasing use of Artificial Intelligence (AI) in social robotics, the collection and analysis of user interaction and feedback data has become crucial for improving the functionality and enhancing the performance of these machines. In this chapter, we will explore the importance of data collection and analysis for social robotics, the types of data commonly collected, and how AI is being used to analyze this data.
 

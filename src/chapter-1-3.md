@@ -1,5 +1,3 @@
-Objectives of the Book
-==================================================
 
 The field of social robotics is rapidly evolving and has the potential to revolutionize many areas of human life. The integration of artificial intelligence, robotics, and cognitive science has enabled the development of machines that can interact with humans in socially intelligent ways. AI and Social Robotics: Developing More Human-Like Machines and Interfaces is a comprehensive guide to the emerging field of social robotics.
 

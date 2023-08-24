@@ -1,5 +1,3 @@
-Content Generation and Personalization
-==========================================================================================
 
 Content generation and personalization are critical components of AI-based social robotics. These techniques enable robots to tailor their interactions and responses to individual users' needs and preferences, enhancing their ability to provide relevant and engaging content. In this chapter, we will discuss an overview of content generation and personalization for social robotics, techniques for generating personalized content, challenges and limitations, and future directions.
 

@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-==================================================================================
 
 The implementation of AI-based social robotics involves significant investment in research, development, and deployment. To ensure the success and sustainability of social robotics projects, it is crucial to consider the business models and cost-effectiveness of these technologies. In this chapter, we will discuss an overview of the implementation of AI-based social robotics, common business models, cost factors and considerations, and strategies for achieving cost-effectiveness.
 

@@ -1,5 +1,3 @@
-Facial Recognition and Emotion Detection
-============================================================================================
 
 Facial recognition and emotion detection are two techniques that are commonly used in AI-based social robotics. In this chapter, we will provide an overview of these techniques and their application in social robotics.
 

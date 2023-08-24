@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Social Robotics
-=========================================================================================
 
 Artificial intelligence (AI) has rapidly evolved in recent years, opening up new possibilities for creating machines that can interact with humans in more natural and intuitive ways. Social robotics is a field that is particularly well-suited to leveraging the advances in AI, as it focuses on creating machines that can interact with humans in social, emotional, and cognitive ways.
 

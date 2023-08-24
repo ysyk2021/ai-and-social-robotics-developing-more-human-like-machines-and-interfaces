@@ -1,5 +1,3 @@
-User Education and Engagement
-=========================================================================
 
 The implementation of Artificial Intelligence (AI) in social robotics is revolutionizing the way humans interact with machines. As social robots become increasingly sophisticated, their ability to engage and interact with users in more human-like ways is improving. However, to fully realize the potential of AI-based social robotics, user education and engagement are critical components. In this chapter, we will explore the importance of user education and engagement in the implementation of AI-based social robotics.
 

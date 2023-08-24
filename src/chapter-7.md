@@ -1,5 +1,3 @@
-Future Directions and Challenges
-================================
 
 The development of AI-based social robotics has significant implications for society, with the potential to revolutionize many areas, from healthcare to education to manufacturing. In this chapter, we will explore emerging trends and technologies in AI-based social robotics, opportunities and challenges in scaling up this technology, and the broader implications for the future.
 

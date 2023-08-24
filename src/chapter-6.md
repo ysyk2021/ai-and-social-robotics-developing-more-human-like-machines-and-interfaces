@@ -1,5 +1,3 @@
-Implementation of AI-Based Social Robotics
-==========================================
 
 The implementation of AI-based social robotics involves designing, building, and deploying robots that can interact with humans in a socially intelligent way. In this chapter, we will discuss an overview of implementing AI-based social robotics, regulatory and ethical considerations, integration with social robotics processes and tools, user education and engagement, and business models and cost-effectiveness.
 

@@ -1,4 +1,3 @@
-# Conclusion
 
 Summary and Key Takeaways
 -------------------------

@@ -1,5 +1,3 @@
-AI-Based Social Robotics Techniques and Strategies
-==================================================
 
 The implementation of AI-based social robotics requires a range of techniques and strategies that enable robots to interact with humans in a socially intelligent way. In this chapter, we will discuss an overview of AI-based social robotics techniques and strategies, natural language processing and dialogue systems, gesture recognition and motion tracking, facial recognition and emotion detection, and content generation and personalization.
 

@@ -1,5 +1,3 @@
-The Need for AI-Based Social Robotics
-===================================================
 
 As technology continues to advance at an unprecedented pace, the need for social robots that can interact with humans in a more natural and intuitive way is becoming increasingly important. Social robotics has the potential to revolutionize numerous industries, from healthcare to retail, and can address a wide range of societal challenges, such as loneliness and social isolation.
 

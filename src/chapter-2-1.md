@@ -1,5 +1,3 @@
-Overview of Social Robotics
-==========================================================
 
 Social robotics is an interdisciplinary field that integrates the principles of robotics, artificial intelligence, and cognitive science to develop machines that can interact with humans in socially intelligent ways. In this chapter, we will provide an overview of social robotics and its key areas of focus.
 

@@ -1,5 +1,3 @@
-Overview of AI-Based Social Robotics Techniques and Strategies
-==================================================================================================================
 
 AI-based social robotics involves the use of various AI techniques to create machines that can interact with humans in social, emotional, and cognitive ways. In this chapter, we will provide an overview of the various AI techniques and strategies used in AI-based social robotics.
 

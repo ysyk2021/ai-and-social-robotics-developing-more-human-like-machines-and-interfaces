@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Social Robotics
-=============================================================================================
 
 The implementation of AI-based social robotics is a complex process that involves numerous challenges and considerations. In this chapter, we will provide an overview of the key steps involved in implementing AI-based social robotics.
 

@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-================================================================================
 
 The implementation of AI-based social robotics involves significant data collection and analysis. This data is used to improve the robot's performance, monitor user behavior, and personalize interactions. However, data collection and analysis raise several regulatory and compliance concerns that must be addressed to protect users' privacy and comply with relevant regulations. In this chapter, we will discuss an overview of data collection and analysis for social robotics, regulatory and compliance data, data protection and privacy considerations, and best practices for data management.
 

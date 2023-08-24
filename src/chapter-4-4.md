@@ -1,5 +1,3 @@
-Behavioral and Performance Data
-=================================================================================
 
 Behavioral and performance data are critical components of data collection and analysis for social robotics. In this chapter, we will discuss the importance of collecting and analyzing behavioral and performance data, the challenges involved in doing so, and the potential benefits of using AI to analyze this type of data.
 

@@ -1,5 +1,3 @@
-Natural Language Processing and Dialogue Systems
-====================================================================================================
 
 One of the key challenges in AI-based social robotics is enabling machines to understand and respond to natural language inputs. Natural language processing (NLP) and dialogue systems are two AI techniques that are commonly used to address this challenge. In this chapter, we will provide an overview of NLP and dialogue systems and their application in AI-based social robotics.
 

@@ -1,5 +1,3 @@
-Traditional Approaches to Social Robotics
-========================================================================
 
 The development of social robots involves a variety of technical and conceptual challenges. In this chapter, we will explore some of the traditional approaches to social robotics development, including the use of pre-programmed rules and reactive systems.
 

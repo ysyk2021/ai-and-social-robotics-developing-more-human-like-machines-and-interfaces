@@ -1,5 +1,3 @@
-Artificial Intelligence in Social Robotics
-==========================================
 
 Artificial intelligence (AI) is a critical technology that enables social robots to perform complex tasks, interact with humans more intelligently, and adapt to changing environments and contexts. In this chapter, we will discuss the different types of AI, their advantages and limitations, and present case studies on the use of AI in social robotics.
 
