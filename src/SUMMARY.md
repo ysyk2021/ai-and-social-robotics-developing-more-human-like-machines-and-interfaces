@@ -36,3 +36,4 @@
   - [Implications for the Future of Developing More Human-Like Machines and Interfaces](chapter-7-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
