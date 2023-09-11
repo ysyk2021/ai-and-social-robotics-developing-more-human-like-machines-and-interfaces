@@ -1,5 +1,4 @@
-Chapter: Traditional Approaches to Social Robotics
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the traditional approaches used in the development of social robotics. We explore the foundational methods and techniques that have been employed to create robots capable of interacting with humans in a socially intelligent manner.
 

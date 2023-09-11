@@ -1,5 +1,4 @@
-Chapter: Regulatory and Ethical Considerations
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the regulatory and ethical considerations surrounding AI and social robotics. We explore the importance of establishing frameworks that ensure responsible and ethical development, deployment, and use of AI-powered social robots. We also discuss the need for transparent regulations to address potential risks and societal implications.
 

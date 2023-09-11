@@ -1,5 +1,4 @@
-Chapter: Overview of Implementing AI-Based Social Robotics
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of implementing AI-based social robotics. We explore the key components and considerations involved in developing and deploying social robots powered by artificial intelligence. From hardware design to software development, we examine the various stages of implementation and highlight important factors for successful integration.
 

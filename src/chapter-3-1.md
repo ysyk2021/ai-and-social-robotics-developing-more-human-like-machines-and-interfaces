@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence and Their Applications in Social Robotics
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore different types of artificial intelligence (AI) and their applications in the field of social robotics. We discuss various AI techniques and approaches that contribute to creating more human-like machines and interfaces for social robots.
 

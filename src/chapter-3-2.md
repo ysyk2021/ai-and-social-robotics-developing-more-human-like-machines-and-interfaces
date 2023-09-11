@@ -1,5 +1,4 @@
-Chapter: Advantages and Limitations of AI in Social Robotics
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the advantages and limitations of using artificial intelligence (AI) in social robotics. We discuss the positive impacts and potential benefits that AI brings to the field, as well as the challenges and constraints that need to be considered.
 
